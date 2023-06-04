@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tayssir Ghanmi</h1>
 <h3 align="center">Exploring the Boundless Horizons of the IT World: A CS Student's Journey on GitHub</h3>
 <div id="header" align="center">
-  <img src="https://tenor.com/bPppr.gif" width="300"/>
+  <img src="https://pin.it/4XCiqQ2" width="300"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayssirgh&label=Profile%20views&color=0e75b6&style=flat" alt="tayssirgh" /> </p>
 
