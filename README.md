@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tayssir</h1>
 <h3 align="center">Exploring the Boundless Horizons of the IT World: A CS Student's Journey on GitHub</h3>
 
-<p align="center">
+<p style="padding-left: 20px;">
    <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=tayssirgh&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B" alt="tayssirgh" />
   </a>
